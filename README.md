@@ -159,13 +159,3 @@ pip install -r requirements.txt
 | Conversation Memory      | ❌ None            | ✅ Session-based history    |
 | API Key Input            | `.env` only        | UI input + `.env`           |
 | Multi-turn Chat          | ❌                 | ✅                          |
-
----
-
-## 🙌 Acknowledgements
-
-- [LangChain](https://www.langchain.com/) — LLM application framework
-- [Groq](https://groq.com/) — Ultra-fast LLM inference
-- [HuggingFace](https://huggingface.co/) — Open-source embeddings
-- [Streamlit](https://streamlit.io/) — Rapid web UI for ML apps
-- ["Attention Is All You Need"](https://arxiv.org/abs/1706.03762) — Sample research paper
