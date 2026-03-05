@@ -11,3 +11,4 @@ faiss-cpu
 langchain_openai
 langchain_chroma
 chroma
+sqlalchemy
